@@ -2,6 +2,8 @@
 
 A Spring Boot application designed for DevOps training with linting, testing, and CI/CD pipeline examples.
 
+Hello from traineeship.
+
 ## Project Structure
 
 - **Spring Boot 3.2.0** with Java 17
